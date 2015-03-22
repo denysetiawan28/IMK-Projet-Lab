@@ -1,0 +1,35 @@
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\bin\Release\pertemuan2.exe
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\bin\Release\pertemuan2.pdb
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\bin\Release\pertemuan2.xml
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.Buydonuanddrink.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.donutanddrink.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.Form1.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.MDIForm.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.Resources.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.Galery.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.reservation.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.UserControl2.resources
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.exe
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.xml
+D:\Microsoft\Data Kuliah\Smester 3 & 4\Smester 3\Lab Coding\IMK\Deny\pertemuan2\pertemuan2\obj\x86\Release\pertemuan2.pdb
+H:\Projek Jad\Imk project Lab\pertemuan2\bin\Release\Project Imk Lab.exe
+H:\Projek Jad\Imk project Lab\pertemuan2\bin\Release\Project Imk Lab.pdb
+H:\Projek Jad\Imk project Lab\pertemuan2\bin\Release\Project Imk Lab.xml
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.Buydonuanddrink.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.donutanddrink.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.Form1.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.MDIForm.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.Resources.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.Galery.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.reservation.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.UserControl2.resources
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\Project Imk Lab.exe
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\Project Imk Lab.xml
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\Project Imk Lab.pdb
+H:\Projek Jad\Imk project Lab\pertemuan2\obj\x86\Release\pertemuan2.AboutUs.resources
